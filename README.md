@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divquan
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer engineering at KNUST (gh)
-- 💞️ I’m looking to collaborate on any project as I am a beginner 
+- 💞️ I’m looking to collaborate on exciting project 
 - 📫 How to reach me divquan@gmail.com
 
 <!---
